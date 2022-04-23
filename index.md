@@ -5,7 +5,7 @@
 ### Category Design 
 
 [Banner Semata Revolution](/sample_page)
-<img src="https://drive.google.com/file/d/1I0r468s4DRYXfAPh2rglTNBjVA2bsoY9/view?usp=sharing"/>
+<img src="https://drive.google.com/file/d/1I0r468s4DRYXfAPh2rglTNBjVA2bsoY9/view?usp=sharing.jpg?raw=true"/>
 
 ---
 [Geometri Linear AI](/pdf/sample_presentation.pdf)
